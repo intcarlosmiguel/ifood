@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <h1 align="center">Interface do IFood</h1>
@@ -65,3 +66,7 @@ $ yarn start
 
 
 <a href="#top">Back to top</a>
+=======
+# ifood
+Clone do Ifood criado em React Native. 
+>>>>>>> 876df0fc75bd52deb103802487b0fd9dc7ea0ca1
